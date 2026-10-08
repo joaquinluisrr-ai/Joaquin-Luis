@@ -10,9 +10,10 @@ Tech-driven practitioner focused on **Python, System Infrastructure, API Integra
 
 ## 🎯 Current Focus & Practice Status
 
-* **Core & Professional Focus (Production-Ready):** Technical Support, Customer Success, SLA Compliance, Incident Escalation, Log Analysis, and Technical Troubleshooting.
-* **Active Practice & Applied Learning (Building & Expanding):** RESTful APIs, JSON parsing, Python scripting, Zapier/Make process automation, and AI agent auditing.
-* **Homelab & Exploration (Conceptual & Lab Practice):** Systems administration, local network infrastructure setups, and Purple Teaming / Cybersecurity fundamentals.
+**Core & Professional Focus (Production-Ready):** Technical Support, Customer Success, SLA Compliance, Incident Escalation, Log Analysis, and Technical Troubleshooting.
+* **Active Practice & Applied Learning (Building & Expanding):** RESTful APIs, JSON parsing, Python scripting, Zapier/Make process automation, and hands-on AI Security & LLM auditing.
+* **Infrastructure & Networking (Active Study & Labs):** Network fundamentals (Network+ in progress), systems administration, and local network infrastructure setups.
+* **Cybersecurity & AI Safety (Conceptual & Lab Practice):** Purple Teaming fundamentals, prompt injection defense, model guardrails, and security log monitoring.
 * **Personal Projects & Hobbies (Disciplinary Curiosity):** Electronics troubleshooting, hardware repair, and cross-disciplinary technical writing/philosophical notes.
 
 ---

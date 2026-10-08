@@ -25,4 +25,4 @@ Tech-driven practitioner focused on **Python, System Infrastructure, API Integra
 
 ---
 
-> **Current Status:** Peachy. My back pain is rapidly passing; I shall resume calisthenics shortly with a valuable lesson learned. 🤸‍♂️
+> **Current Status:** Peachy. My back pain is rapidly passing; I shall resume calisthenics shortly with a valuable lesson learned: The line between excitement and overdoing gets thinner as reps pass by 🤸‍♂️
